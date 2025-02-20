@@ -3,6 +3,7 @@ public class Main {
         System.out.println("hello world");
 
         System.out.println("hoy es miercoles");
+        System.out.println("mañana es jueves");
 
     }
 }
